@@ -1,5 +1,5 @@
 ### Exercícios de fixação de Python
-Repositorio de exercícios de Lógica de Programação da Professora Thaís.
+Repositório de exercícios de Lógica de Programação da Professora Thaís.
 
 <br>
 
